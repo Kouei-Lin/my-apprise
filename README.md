@@ -13,7 +13,7 @@
 
 `$ pip install -r requirements.txt`
 
-[Python下載](https://www.python.org/downloads/)
+[沒Python於此下載](https://www.python.org/downloads/)
 
 ## .env
 編輯各項目所需`.env`
