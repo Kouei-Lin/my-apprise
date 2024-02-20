@@ -1,4 +1,4 @@
-# [apprise](https://github.com/caronc/apprise)測試項目
+# [Apprise](https://github.com/caronc/apprise)測試項目
 
 ## 下載Repo
 `$ git clone https://github.com/Kouei-Lin/my-apprise`
