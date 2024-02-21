@@ -18,9 +18,9 @@
 ## .env
 編輯各項目所需`.env`
 
-`cp .env_example .env`
+`$ cp .env_example .env`
 
-`vim .env`
+`$ vim .env`
 
 ## 跑項目
 `$ python3 app.py`
